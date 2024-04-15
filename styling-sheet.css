@@ -12,3 +12,10 @@ font-weight: bold;}
     width: 300px;
 }
 
+.container {
+    max-width: 960px;
+    margin-left: 1cm;
+margin-right: 1cm;
+padding-left: 1rem;
+padding-right: 1rem;
+}
